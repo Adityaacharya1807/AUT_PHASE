@@ -1,0 +1,5 @@
+Samsung Galaxy S8
+
+Android Version:8.0.0
+Kernel Version:4.4.111-14902807-QB21249916
+Build Number:R16NW.G950FXXS4CRLB
