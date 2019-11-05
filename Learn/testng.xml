@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Personal">
+    <classes>
+      <class name="think.uses">
+      <methods>
+      <exclude name="init.*"/>
+      </methods>
+      </class>
+      <class name="think.downtown">
+      <methods>
+      <include name="supr"/>
+      </methods>
+      </class>
+    </classes>
+  </test>
+  <test thread-count="5" name="Learning
+  ">
+   <classes>
+   <class name="think.honeycomb"/>
+      <class name="think.mazer"/>
+       </classes>
+       </test>
+</suite> 
+
+
+
+
+
